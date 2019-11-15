@@ -27,7 +27,9 @@ font: inherit;
 border-color: gray;
 color: azure;
 border-radius: 5px;
+transition: .25s;
 }
 .card-btn:hover{
 border-color: antiquewhite;
+color: rgb(37, 179, 179);
 }
