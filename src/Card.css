@@ -12,5 +12,22 @@ margin-top: 70px;
   color: azure;
   font-size: 40px;
   text-transform: uppercase;
-  letter-spacing: 5px;
+  letter-spacing: 2px;
+  font-family: 'Righteous', cursive;
+}
+
+.card-subtitle{
+  font-size: 20px;
+}
+
+.card-btn{
+background: none;
+outline: none;
+font: inherit;
+border-color: gray;
+color: azure;
+border-radius: 5px;
+}
+.card-btn:hover{
+border-color: antiquewhite;
 }
