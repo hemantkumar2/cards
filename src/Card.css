@@ -7,3 +7,10 @@
 .card-margin{
 margin-top: 70px;
 }
+
+.card-title{
+  color: azure;
+  font-size: 40px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
